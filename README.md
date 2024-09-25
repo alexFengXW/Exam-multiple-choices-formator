@@ -1,4 +1,6 @@
 # Exam_formator
+## Credits
+Thanks to Seiied-Mohammad-Javad, the multiple choices https://github.com/javadr/multiple-choice.sty.git 
 ## TO-DO List
 1. First item
 2. Second item
