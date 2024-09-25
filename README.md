@@ -1,9 +1,8 @@
 # Exam_formator
 
 ## TO-DO List
-1. ~~Randomization of choices' permutation~~
-2. Formatting Choices in good manner
-
+1. ~~Randomization of choices' permutation in python~~
+2. Formatting Choices in good manner in Latex
 
 ## Changelog
 2024/9/25：
