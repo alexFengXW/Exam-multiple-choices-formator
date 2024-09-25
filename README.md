@@ -1,6 +1,5 @@
 # Exam_formator
-## Credits
-Thanks to Seiied-Mohammad-Javad, the multiple choices https://github.com/javadr/multiple-choice.sty.git 
+
 ## TO-DO List
 1. First item
 2. Second item
@@ -13,3 +12,6 @@ Thanks to Seiied-Mohammad-Javad, the multiple choices https://github.com/javadr/
 2. Code in python to achieve the randomization for the choices.
 
 TO SEE THE RESULTS: Must run the python first, then run the multiple-choice-doc.tex independently to see the result
+
+## Credits
+Multiple choices set-up from Seiied-Mohammad-Javad, https://github.com/javadr/multiple-choice.sty.git 
