@@ -1,0 +1,28 @@
+\documentclass{article}
+\usepackage{fancyhdr}  % For custom headers
+\usepackage{tikz}      % For drawing boxes and other shapes
+\usepackage[a4paper, margin=1in, headheight=50pt]{geometry}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\textbf{MATH 1229A\\Test 1}}
+\fancyhead[C]{\textbf{SID:} \tikz \node[draw, rectangle, rounded corners, minimum width=2in, minimum height=5mm] {};}
+\fancyhead[R]{\textbf{VERSION: A\\October 15, 2022}}
+\renewcommand{\headrulewidth}{2pt}  % Thick line under the header
+
+% Define the MCQuestion environment if it is not defined
+\newenvironment{MCQuestion}[1]{
+  \par\vspace{10pt}\noindent\textbf{#1}\par\vspace{3pt}
+  \begin{tabular}{|*{5}{p{0.18\textwidth}|}}\hline
+}{
+  \\\hline\end{tabular}\vspace{10pt}
+}
+
+\begin{document}
+
+\section*{Exam Questions}
+
+% Include the file with the MC questions
+\input{choices}
+
+\end{document}
