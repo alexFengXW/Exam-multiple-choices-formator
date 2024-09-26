@@ -3,11 +3,12 @@
 1. ~~Achieve Multiple Choices environment in Latex~~
 2. ~~Randomization of multiple choices~~
 3. ~~Make handy file for users to modify multiple choices~~
-4. Test if longer string still fits in the rec
-5. Center the instructions on the top
+4. ~~Test if longer string still fits in the rec~~
+5. ~~Center the instructions on the top~~
 6. Make a file that enables shuffle and generating of latex to happen at the same time
 7. Generate answer key for the multiple choices
 8. Support image addition for multiple choices
+9. Provide sectional comments
 
 ## Features
 1. Format the multiple choices in a **decent exam manner**
@@ -23,6 +24,4 @@
 9.25 Achieve randomization functions of choices by python, and add json file for users to modify questions contents
 
 ## Credits
-Multiple choices environment from **Seiied-Mohammad-Javad Razvian** at https://github.com/javadr/multiple-choice.sty/tree/main
-
 Work under the supervision from **Dr.Asghar Ghorbanpour**
