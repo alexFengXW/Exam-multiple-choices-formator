@@ -4,8 +4,9 @@
 2. ~~Randomization of multiple choices~~
 3. ~~Make handy file for users to modify multiple choices~~
 4. Make a file that enables shuffle and generating of latex to happen at the same time
-5. Support image addition for multiple choices
-6. Optimize the formats
+5. Generate answer key for the multiple choices
+6. Support image addition for multiple choices
+7. Optimize the formats
 
 ## Features
 1. Format the multiple choices in a **decent exam manner**
