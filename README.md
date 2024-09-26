@@ -3,7 +3,8 @@
 ## Features
 1. A set-up format for multiple choices in a decent exam manner 
 2. Version control for multiple choices permutation achieced by python randomizor
-3. PDF generation 
+3. Easy to add or change questions and choces
+4. PDF generation 
 
 ## TO-DO List
 1. ~~Randomization of choices' permutation in python~~
