@@ -1,0 +1,24 @@
+[
+    {
+        "prompt": "(1 mark) A1. Who is the president of the USA?",
+        "choices": ["Joe Biden", "Donald Trump", "Barack Obama", "George Bush", "Bill Clinton"]
+    },
+    {
+        "prompt": "(1 mark) A2. Which country is Paris the capital of?",
+        "choices": ["France", "Italy", "Germany", "Spain", "Portugal"]
+    },
+    {
+        "prompt": "(1 mark) A3. What is the capital of Japan?",
+        "choices": ["Tokyo", "Kyoto", "Osaka", "Hokkaido", "Nagasaki"]
+    },
+
+    {
+        "prompt": "(1 mark) A4. What is your name? sum_(i=1)^n i^3=((n(n+1))/2)^2",
+        "choices": ["Mandy", "John","Bob", "Jack", "Jason"]
+    },
+
+    {
+        "prompt": "(1 mark) A4. What is your name? sum_(i=1)^n i^3=((n(n+1))/2)^2",
+        "choices": ["Mandy", "John","Bob", "Jack", "Jason"]
+    }
+]
