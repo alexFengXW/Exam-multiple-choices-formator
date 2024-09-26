@@ -13,12 +13,8 @@
     },
 
     {
-        "prompt": "(1 mark) A4. What is your name? sum_(i=1)^n i^3=((n(n+1))/2)^2",
-        "choices": ["Mandy", "John","Bob", "Jack", "Jason"]
-    },
-
-    {
-        "prompt": "(1 mark) A4. What is your name? sum_(i=1)^n i^3=((n(n+1))/2)^2",
-        "choices": ["Mandy", "John","Bob", "Jack", "Jason"]
+    "prompt": "(1 mark) A4. What is your name? $\\sum_{i=1}^n i^3 = \\left(\\frac{n(n+1)}{2}\\right)^2$",
+    "choices": ["Mandy", "John", "Bob", "Jack", "Jason"]
     }
+
 ]

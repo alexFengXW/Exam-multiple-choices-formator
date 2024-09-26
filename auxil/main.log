@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.8.18)  25 SEP 2024 23:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.8.18)  25 SEP 2024 23:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -350,20 +350,20 @@ File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 (C:/Users\Alexf\Desktop\Exam_formator\auxil\main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
 
 (D:\MikTex\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -427,7 +427,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 1.
 
 choices.tex:2: Undefined control sequence.
-l.2 ...d Trump & E: Joe Biden \\\end{MCQuestion}\n
+l.2 ...iden & E: Bill Clinton \\\end{MCQuestion}\n
                                                   \n\begin{MCQuestion}{(1 ma...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -436,7 +436,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 choices.tex:2: Undefined control sequence.
-l.2 ...Trump & E: Joe Biden \\\end{MCQuestion}\n\n
+l.2 ...en & E: Bill Clinton \\\end{MCQuestion}\n\n
                                                   \begin{MCQuestion}{(1 mark...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -455,7 +455,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1--2
  []
 
 choices.tex:3: Undefined control sequence.
-l.3 ...: Portugal & E: France \\\end{MCQuestion}\n
+l.3 ...D: Portugal & E: Spain \\\end{MCQuestion}\n
                                                   \n\begin{MCQuestion}{(1 ma...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -464,7 +464,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 choices.tex:3: Undefined control sequence.
-l.3 ...Portugal & E: France \\\end{MCQuestion}\n\n
+l.3 ... Portugal & E: Spain \\\end{MCQuestion}\n\n
                                                   \begin{MCQuestion}{(1 mark...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -483,7 +483,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--3
  []
 
 choices.tex:4: Undefined control sequence.
-l.4 ...D: Hokkaido & E: Tokyo \\\end{MCQuestion}\n
+l.4 ...D: Hokkaido & E: Osaka \\\end{MCQuestion}\n
                                                   \n\begin{MCQuestion}{(1 ma...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -492,7 +492,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 choices.tex:4: Undefined control sequence.
-l.4 ... Hokkaido & E: Tokyo \\\end{MCQuestion}\n\n
+l.4 ... Hokkaido & E: Osaka \\\end{MCQuestion}\n\n
                                                   \begin{MCQuestion}{(1 mark...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -510,112 +510,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--4
 
  []
 
-choices.tex:4: Missing $ inserted.
-<inserted text> 
-                $
-l.4 ... your name? sum_(i=1)^n i^3=((n(n+1))/2)^2}
-                                                  
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-choices.tex:4: Extra }, or forgotten $.
-<recently read> \egroup 
-                        
-l.4 ... your name? sum_(i=1)^n i^3=((n(n+1))/2)^2}
-                                                  
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-choices.tex:4: Missing $ inserted.
-<inserted text> 
-                $
-l.4 ... your name? sum_(i=1)^n i^3=((n(n+1))/2)^2}
-                                                  
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-choices.tex:5: Missing } inserted.
-<inserted text> 
-                }
-l.5 ... John & D: Jack & E: Bob \\\end{MCQuestion}
-                                                  \n\n\begin{MCQuestion}{(1 ...
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
 choices.tex:5: Undefined control sequence.
-l.5 ...ohn & D: Jack & E: Bob \\\end{MCQuestion}\n
-                                                  \n\begin{MCQuestion}{(1 ma...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-choices.tex:5: Undefined control sequence.
-l.5 ...n & D: Jack & E: Bob \\\end{MCQuestion}\n\n
-                                                  \begin{MCQuestion}{(1 mark...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-Overfull \hbox (29.6866pt too wide) in paragraph at lines 4--5
-[][]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4--5
-
- []
-
-choices.tex:5: Missing $ inserted.
-<inserted text> 
-                $
-l.5 ... your name? sum_(i=1)^n i^3=((n(n+1))/2)^2}
-                                                  
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-choices.tex:5: Extra }, or forgotten $.
-<recently read> \egroup 
-                        
-l.5 ... your name? sum_(i=1)^n i^3=((n(n+1))/2)^2}
-                                                  
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-choices.tex:5: Missing $ inserted.
-<inserted text> 
-                $
-l.5 ... your name? sum_(i=1)^n i^3=((n(n+1))/2)^2}
-                                                  
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-choices.tex:6: Missing } inserted.
-<inserted text> 
-                }
-l.6 ...ason & D: Jack & E: John \\\end{MCQuestion}
-                                                  \n\n
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-choices.tex:6: Undefined control sequence.
-l.6 ...on & D: Jack & E: John \\\end{MCQuestion}\n
+l.5 ...n & D: Jack & E: Mandy \\\end{MCQuestion}\n
                                                   \n
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -623,8 +519,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-choices.tex:6: Undefined control sequence.
-l.6 ... & D: Jack & E: John \\\end{MCQuestion}\n\n
+choices.tex:5: Undefined control sequence.
+l.5 ...& D: Jack & E: Mandy \\\end{MCQuestion}\n\n
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -633,12 +529,12 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 )
-Overfull \hbox (29.6866pt too wide) in paragraph at lines 5--27
+Overfull \hbox (29.6866pt too wide) in paragraph at lines 4--29
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5--27
+Underfull \hbox (badness 10000) in paragraph at lines 4--29
 
  []
 
@@ -656,20 +552,20 @@ L3 programming layer <2024-07-20>
 Here is how much of TeX's memory you used:
  12519 strings out of 473898
  254636 string characters out of 5742894
- 1937960 words of memory out of 5000000
+ 1935960 words of memory out of 5000000
  35205 multiletter control sequences out of 15000+600000
  558982 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  102i,17n,107p,446b,840s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <D:/MikTex/fonts/type1/public/amsfonts/cm/cmbx10.pfb><D:/MikTex/fonts/type1/p
-ublic/amsfonts/cm/cmbx12.pfb><D:/MikTex/fonts/type1/public/amsfonts/cm/cmmi10.p
-fb><D:/MikTex/fonts/type1/public/amsfonts/cm/cmmi7.pfb><D:/MikTex/fonts/type1/p
-ublic/amsfonts/cm/cmr10.pfb><D:/MikTex/fonts/type1/public/amsfonts/cm/cmr7.pfb>
-
-Output written on C:/Users\Alexf\Desktop\Exam_formator\out\main.pdf (1 page, 78
-266 bytes).
+ublic/amsfonts/cm/cmbx12.pfb><D:/MikTex/fonts/type1/public/amsfonts/cm/cmex10.p
+fb><D:/MikTex/fonts/type1/public/amsfonts/cm/cmmi10.pfb><D:/MikTex/fonts/type1/
+public/amsfonts/cm/cmmi7.pfb><D:/MikTex/fonts/type1/public/amsfonts/cm/cmr10.pf
+b><D:/MikTex/fonts/type1/public/amsfonts/cm/cmr7.pfb>
+Output written on C:/Users\Alexf\Desktop\Exam_formator\out\main.pdf (1 page, 86
+395 bytes).
 PDF statistics:
- 39 PDF objects out of 1000 (max. 8388607)
+ 44 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
