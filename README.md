@@ -1,5 +1,10 @@
 # Exam_formator
 
+## Features
+1. A set-up format for multiple choices in a decent exam manner 
+2. Version control for multiple choices permutation achieced by python randomizor
+3. PDF generation 
+
 ## TO-DO List
 1. ~~Randomization of choices' permutation in python~~
 2. Formatting Choices in good manner in Latex
@@ -13,3 +18,4 @@ TO SEE THE RESULTS: Must run the python first, then run the multiple-choice-doc.
 
 ## Credits
 Multiple choices set-up from Seiied-Mohammad-Javad, https://github.com/javadr/multiple-choice.sty.git 
+Work under Dr.Asghar Ghorbanpour's supervision
