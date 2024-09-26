@@ -17,5 +17,6 @@
 TO SEE THE RESULTS: Must run the python first, then run the multiple-choice-doc.tex independently to see the result
 
 ## Credits
-Multiple choices set-up from Seiied-Mohammad-Javad, https://github.com/javadr/multiple-choice.sty.git .
-Work under Dr.Asghar Ghorbanpour's supervision.
+Multiple choices set-up from Seiied-Mohammad-Javad, https://github.com/javadr/multiple-choice.sty.git
+
+Work under Dr.Asghar Ghorbanpour's supervision
