@@ -3,10 +3,11 @@
 1. ~~Achieve Multiple Choices environment in Latex~~
 2. ~~Randomization of multiple choices~~
 3. ~~Make handy file for users to modify multiple choices~~
-4. Make a file that enables shuffle and generating of latex to happen at the same time
-5. Generate answer key for the multiple choices
-6. Support image addition for multiple choices
-7. Optimize the formats
+4. Test if longer string still fits in the rec
+5. Center the instructions on the top
+6. Make a file that enables shuffle and generating of latex to happen at the same time
+7. Generate answer key for the multiple choices
+8. Support image addition for multiple choices
 
 ## Features
 1. Format the multiple choices in a **decent exam manner**
